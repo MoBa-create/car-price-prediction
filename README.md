@@ -47,7 +47,9 @@ This project implements **Leakage-Free Target Encoding** to process high-cardina
 2. **Install requirements:**
    ```bash
    pip install -r requirements.txt
-3 - python car_price_prediction.py
+3 - 3. **Run the prediction script:**
+   ```bash
+   python car_price_prediction.py
 
 ## 🛠️ Tech Stack
 
