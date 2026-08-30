@@ -44,8 +44,10 @@ This project implements **Leakage-Free Target Encoding** to process high-cardina
    git clone https://github.com/MoBa-create/car-price-prediction.git
    cd car-price-prediction
 
-1 - pip install -r requirements.txt
-2 - python car_price_prediction.py
+2. **Install requirements:**
+   ```bash
+   pip install -r requirements.txt
+3 - python car_price_prediction.py
 
 ## 🛠️ Tech Stack
 
