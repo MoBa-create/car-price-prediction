@@ -34,23 +34,3 @@ This project implements **Leakage-Free Target Encoding** to process high-cardina
 | :--- | :--- |
 | **$R^2$ Score (Accuracy)** | **~77.94%** |
 | **Mean Absolute Error (MAE)** | **~112,300** |
-
----
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/MoBa-create/car-price-prediction.git
-   cd car-price-prediction
-2. **Install requirements:**
-   ```bash
-   pip install -r requirements.txt
-3. **Run the prediction script:**
-   ```bash
-   python car_price_prediction.py
-## 🛠️ Tech Stack
-
-- Python 3.x
-- Pandas & NumPy (Data Processing & Feature Engineering)
-- Scikit-Learn (Model Training & Metrics)
